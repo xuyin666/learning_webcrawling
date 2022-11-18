@@ -1,4 +1,4 @@
-```python3.6 -m pip install redis```
+```python3.7 -m pip install redis```
 
 ```brew services restart redis```
 
@@ -11,3 +11,5 @@
 ```python proxyPool.py schedule```
 
 ```python proxyPool.py server```
+
+```python3.7 -m pip install redis```
